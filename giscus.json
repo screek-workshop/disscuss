@@ -1,6 +1,5 @@
 {
   "origins": ["https://screek.tech", "https://cn.screek.tech", "https://en.screek.tech"],
-   "originsRegex": ["https://*.screek.tech"],
-  "defaultCommentOrder": "newest",
-  
+  "originsRegex": ["https://*.screek.tech"],
+  "defaultCommentOrder": "newest",  
 }
